@@ -1,0 +1,630 @@
+Top 3 and Bottom 3 in Rk:
+Top 3:
+Martin Ødegaard (Arsenal): 567
+Joshua Zirkzee (Manchester Utd): 566
+Oleksandr Zinchenko (Arsenal): 565
+Bottom 3:
+Joshua Acheampong (Chelsea): 2
+Tyler Adams (Bournemouth): 3
+Tosin Adarabioyo (Chelsea): 4
+
+Top 3 and Bottom 3 in MP:
+Top 3:
+Youri Tielemans (Aston Villa): 34
+Tyrick Mitchell (Crystal Palace): 34
+Leandro Trossard (Arsenal): 34
+Bottom 3:
+Ayden Heaven (Manchester Utd): 2
+Ben Godfrey (Ipswich Town): 2
+Billy Gilmour (Brighton): 2
+
+Top 3 and Bottom 3 in Starts:
+Top 3:
+Youri Tielemans (Aston Villa): 34
+Tyrick Mitchell (Crystal Palace): 34
+Dean Henderson (Crystal Palace): 34
+Bottom 3:
+Ben Chilwell (Crystal Palace): 0
+Solly March (Brighton): 0
+Sergio Reguilón (Tottenham): 0
+
+Top 3 and Bottom 3 in Min:
+Top 3:
+Dean Henderson (Crystal Palace): 3060.0
+David Raya (Arsenal): 3060.0
+Virgil van Dijk (Liverpool): 2970.0
+Bottom 3:
+Harrison Reed (Fulham): 93.0
+Ayden Heaven (Manchester Utd): 95.0
+Jahmai Simpson-Pusey (Manchester City): 96.0
+
+Top 3 and Bottom 3 in Gls:
+Top 3:
+Mohamed Salah (Liverpool): 27
+Alexander Isak (Newcastle Utd): 21
+Erling Haaland (Manchester City): 21
+Bottom 3:
+Aaron Ramsdale (Southampton): 0
+Antonee Robinson (Fulham): 0
+Andy Irving (West Ham): 0
+
+Top 3 and Bottom 3 in Ast:
+Top 3:
+Mohamed Salah (Liverpool): 18
+Jacob Murphy (Newcastle Utd): 11
+Antonee Robinson (Fulham): 10
+Bottom 3:
+Aaron Ramsdale (Southampton): 0
+Łukasz Fabiański (West Ham): 0
+Aaron Cresswell (West Ham): 0
+
+Top 3 and Bottom 3 in CrdY:
+Top 3:
+Saša Lukić (Fulham): 12
+Will Hughes (Crystal Palace): 11
+Marc Cucurella (Chelsea): 10
+Bottom 3:
+Wilson Odobert (Tottenham): 0
+Abdul Fatawu Issahaku (Leicester City): 0
+André Onana (Manchester Utd): 0
+
+Top 3 and Bottom 3 in CrdR:
+Top 3:
+Myles Lewis-Skelly (Arsenal): 2
+Bruno Fernandes (Manchester Utd): 2
+Jack Stephens (Southampton): 2
+Bottom 3:
+Yasin Ayari (Brighton): 0
+Wataru Endo (Liverpool): 0
+Welington (Southampton): 0
+
+Top 3 and Bottom 3 in xG:
+Top 3:
+Mohamed Salah (Liverpool): 23.7
+Erling Haaland (Manchester City): 20.8
+Alexander Isak (Newcastle Utd): 17.5
+Bottom 3:
+Aaron Ramsdale (Southampton): 0.0
+Adam Webster (Brighton): 0.0
+André Onana (Manchester Utd): 0.0
+
+Top 3 and Bottom 3 in xAG:
+Top 3:
+Mohamed Salah (Liverpool): 12.1
+Cole Palmer (Chelsea): 9.2
+Son Heung-min (Tottenham): 8.2
+Bottom 3:
+Aaron Ramsdale (Southampton): 0.0
+Łukasz Fabiański (West Ham): 0.0
+Armel Bella Kotchap (Southampton): 0.0
+
+Top 3 and Bottom 3 in PrgC_x:
+Top 3:
+Jeremy Doku (Manchester City): 176
+Mohamed Salah (Liverpool): 138
+Kaoru Mitoma (Brighton): 136
+Bottom 3:
+Aaron Ramsdale (Southampton): 0
+Alex McCarthy (Southampton): 0
+Alex Palmer (Ipswich Town): 0
+
+Top 3 and Bottom 3 in PrgP_x:
+Top 3:
+Bruno Fernandes (Manchester Utd): 264
+Joško Gvardiol (Manchester City): 240
+Martin Ødegaard (Arsenal): 231
+Bottom 3:
+Aaron Ramsdale (Southampton): 0
+Łukasz Fabiański (West Ham): 0
+Alphonse Areola (West Ham): 0
+
+Top 3 and Bottom 3 in PrgR_x:
+Top 3:
+Mohamed Salah (Liverpool): 407
+Bryan Mbeumo (Brentford): 300
+Kaoru Mitoma (Brighton): 274
+Bottom 3:
+Aaron Ramsdale (Southampton): 0
+Łukasz Fabiański (West Ham): 0
+Yerson Mosquera (Wolves): 0
+
+Top 3 and Bottom 3 in Gls.1:
+Top 3:
+Jáder Durán (Aston Villa): 0.99
+Donyell Malen (Aston Villa): 0.99
+Richarlison (Tottenham): 0.94
+Bottom 3:
+Alisson (Liverpool): 0.0
+Vitaliy Mykolenko (Everton): 0.0
+Aaron Ramsdale (Southampton): 0.0
+
+Top 3 and Bottom 3 in Ast.1:
+Top 3:
+Tyrique George (Chelsea): 0.88
+Danny Ings (West Ham): 0.63
+Bukayo Saka (Arsenal): 0.62
+Bottom 3:
+Woyo Coulibaly (Leicester City): 0.0
+Antonín Kinský (Tottenham): 0.0
+Antony (Manchester Utd): 0.0
+
+Top 3 and Bottom 3 in xG.1:
+Top 3:
+James Mcatee (Manchester City): 0.85
+Richarlison (Tottenham): 0.83
+Marco Asensio (Aston Villa): 0.78
+Bottom 3:
+Aaron Ramsdale (Southampton): 0.0
+Antonín Kinský (Tottenham): 0.0
+Arijanet Muric (Ipswich Town): 0.0
+
+Top 3 and Bottom 3 in xAG.1:
+Top 3:
+Tyrique George (Chelsea): 0.63
+Mykhailo Mudryk (Chelsea): 0.58
+Luis Sinisterra (Bournemouth): 0.54
+Bottom 3:
+Aaron Ramsdale (Southampton): 0.0
+Łukasz Fabiański (West Ham): 0.0
+Alphonse Areola (West Ham): 0.0
+
+Top 3 and Bottom 3 in SoT/90:
+Top 3:
+Julio Enciso (Brighton): 3.37
+Donyell Malen (Aston Villa): 2.64
+Luis Sinisterra (Bournemouth): 2.29
+Bottom 3:
+Aaron Ramsdale (Southampton): 0.0
+Aaron Cresswell (West Ham): 0.0
+Łukasz Fabiański (West Ham): 0.0
+
+Top 3 and Bottom 3 in Cmp:
+Top 3:
+Virgil van Dijk (Liverpool): 2371
+William Saliba (Arsenal): 2272
+Joško Gvardiol (Manchester City): 2240
+Bottom 3:
+Albert Grønbaek (Southampton): 13
+Odsonne Édouard (Crystal Palace): 17
+Ali Al Hamadi (Ipswich Town): 25
+
+Top 3 and Bottom 3 in Cmp%:
+Top 3:
+William Saliba (Arsenal): 94.2
+Manuel Akanji (Manchester City): 93.9
+Nathan Aké (Manchester City): 93.9
+Bottom 3:
+Matz Sels (Nott'ham Forest): 50.1
+George Hirst (Ipswich Town): 53.1
+Beto (Everton): 56.9
+
+Top 3 and Bottom 3 in TotDist:
+Top 3:
+Virgil van Dijk (Liverpool): 43424
+William Saliba (Arsenal): 39194
+Levi Colwill (Chelsea): 38297
+Bottom 3:
+Albert Grønbaek (Southampton): 135
+Odsonne Édouard (Crystal Palace): 230
+Ali Al Hamadi (Ipswich Town): 278
+
+Top 3 and Bottom 3 in Cmp%.1:
+Top 3:
+Łukasz Fabiański (West Ham): 100.0
+Robin Olsen (Aston Villa): 100.0
+Antonín Kinský (Tottenham): 100.0
+Bottom 3:
+Paul Onuachu (Southampton): 63.8
+George Hirst (Ipswich Town): 65.5
+Rodrigo Muniz (Fulham): 67.6
+
+Top 3 and Bottom 3 in Cmp%.2:
+Top 3:
+Danny Ward (Leicester City): 100.0
+Caoimhín Kelleher (Liverpool): 100.0
+Robin Olsen (Aston Villa): 100.0
+Bottom 3:
+George Hirst (Ipswich Town): 45.5
+Beto (Everton): 49.2
+Albert Grønbaek (Southampton): 50.0
+
+Top 3 and Bottom 3 in KP:
+Top 3:
+Bruno Fernandes (Manchester Utd): 77
+Cole Palmer (Chelsea): 76
+Mohamed Salah (Liverpool): 75
+Bottom 3:
+Aaron Ramsdale (Southampton): 0
+Łukasz Fabiański (West Ham): 0
+Kosta Nedeljković (Aston Villa): 0
+
+Top 3 and Bottom 3 in 1/3_x:
+Top 3:
+Virgil van Dijk (Liverpool): 258
+Joško Gvardiol (Manchester City): 225
+Youri Tielemans (Aston Villa): 221
+Bottom 3:
+Ali Al Hamadi (Ipswich Town): 0
+Tyrique George (Chelsea): 0
+Solly March (Brighton): 0
+
+Top 3 and Bottom 3 in PPA:
+Top 3:
+Mohamed Salah (Liverpool): 80
+Martin Ødegaard (Arsenal): 78
+Alex Iwobi (Fulham): 74
+Bottom 3:
+Łukasz Fabiański (West Ham): 0
+Abdukodir Khusanov (Manchester City): 0
+Ben Mee (Brentford): 0
+
+Top 3 and Bottom 3 in CrsPA:
+Top 3:
+Antonee Robinson (Fulham): 26
+Pedro Porro (Tottenham): 26
+Milos Kerkez (Bournemouth): 22
+Bottom 3:
+Aaron Ramsdale (Southampton): 0
+Łukasz Fabiański (West Ham): 0
+Ali Al Hamadi (Ipswich Town): 0
+
+Top 3 and Bottom 3 in PrgP_y:
+Top 3:
+Bruno Fernandes (Manchester Utd): 264
+Joško Gvardiol (Manchester City): 240
+Martin Ødegaard (Arsenal): 231
+Bottom 3:
+Aaron Ramsdale (Southampton): 0
+Łukasz Fabiański (West Ham): 0
+Alphonse Areola (West Ham): 0
+
+Top 3 and Bottom 3 in SCA:
+Top 3:
+Cole Palmer (Chelsea): 177
+Bruno Fernandes (Manchester Utd): 157
+Mohamed Salah (Liverpool): 144
+Bottom 3:
+Ben Mee (Brentford): 0
+Kosta Nedeljković (Aston Villa): 0
+Benoît Badiashile (Chelsea): 0
+
+Top 3 and Bottom 3 in SCA90:
+Top 3:
+Philip Billing (Bournemouth): 7.83
+Luis Guilherme (West Ham): 6.52
+Kevin De Bruyne (Manchester City): 6.24
+Bottom 3:
+Kosta Nedeljković (Aston Villa): 0.0
+Ben Mee (Brentford): 0.0
+Stefan Ortega (Manchester City): 0.0
+
+Top 3 and Bottom 3 in GCA:
+Top 3:
+Mohamed Salah (Liverpool): 24
+Bukayo Saka (Arsenal): 22
+Mikkel Damsgaard (Brentford): 21
+Bottom 3:
+Aaron Ramsdale (Southampton): 0
+Łukasz Fabiański (West Ham): 0
+Aaron Cresswell (West Ham): 0
+
+Top 3 and Bottom 3 in GCA90:
+Top 3:
+Solly March (Brighton): 1.7
+Bukayo Saka (Arsenal): 1.36
+Harvey Elliott (Liverpool): 0.98
+Bottom 3:
+Aaron Ramsdale (Southampton): 0.0
+Yves Bissouma (Tottenham): 0.0
+Aaron Cresswell (West Ham): 0.0
+
+Top 3 and Bottom 3 in Tkl:
+Top 3:
+Idrissa Gana Gueye (Everton): 119
+Daniel Muñoz (Crystal Palace): 108
+Noussair Mazraoui (Manchester Utd): 100
+Bottom 3:
+Aaron Ramsdale (Southampton): 0
+Łukasz Fabiański (West Ham): 0
+Arijanet Muric (Ipswich Town): 0
+
+Top 3 and Bottom 3 in TklW:
+Top 3:
+Idrissa Gana Gueye (Everton): 70
+Daniel Muñoz (Crystal Palace): 69
+Moisés Caicedo (Chelsea): 61
+Bottom 3:
+Aaron Ramsdale (Southampton): 0
+Łukasz Fabiański (West Ham): 0
+Alisson (Liverpool): 0
+
+Top 3 and Bottom 3 in Att_x:
+Top 3:
+Trent Alexander-Arnold (Liverpool): 100
+Elliot Anderson (Nott'ham Forest): 93
+João Gomes (Wolves): 93
+Bottom 3:
+Nick Pope (Newcastle Utd): 0
+Neto (Bournemouth): 0
+Mykhailo Mudryk (Chelsea): 0
+
+Top 3 and Bottom 3 in Lost_x:
+Top 3:
+João Gomes (Wolves): 56
+Trent Alexander-Arnold (Liverpool): 53
+Elliot Anderson (Nott'ham Forest): 51
+Bottom 3:
+Woyo Coulibaly (Leicester City): 0
+Armando Broja (Everton): 0
+Tyrone Mings (Aston Villa): 0
+
+Top 3 and Bottom 3 in Blocks:
+Top 3:
+Nathan Collins (Brentford): 68
+Murillo (Nott'ham Forest): 66
+Tyrick Mitchell (Crystal Palace): 62
+Bottom 3:
+Aaron Ramsdale (Southampton): 0
+Łukasz Fabiański (West Ham): 0
+Arijanet Muric (Ipswich Town): 0
+
+Top 3 and Bottom 3 in Sh:
+Top 3:
+Nathan Collins (Brentford): 48
+Dara O'Shea (Ipswich Town): 45
+Murillo (Nott'ham Forest): 43
+Bottom 3:
+Aaron Ramsdale (Southampton): 0
+Łukasz Fabiański (West Ham): 0
+İlkay Gündoğan (Manchester City): 0
+
+Top 3 and Bottom 3 in Pass:
+Top 3:
+Alexis Mac Allister (Liverpool): 53
+Tyrick Mitchell (Crystal Palace): 50
+Antoine Semenyo (Bournemouth): 48
+Bottom 3:
+Aaron Ramsdale (Southampton): 0
+Łukasz Fabiański (West Ham): 0
+Arijanet Muric (Ipswich Town): 0
+
+Top 3 and Bottom 3 in Int:
+Top 3:
+Aaron Wan-Bissaka (West Ham): 57
+Antonee Robinson (Fulham): 56
+Ryan Gravenberch (Liverpool): 56
+Bottom 3:
+Łukasz Fabiański (West Ham): 0
+Ali Al Hamadi (Ipswich Town): 0
+Alphonse Areola (West Ham): 0
+
+Top 3 and Bottom 3 in Touches:
+Top 3:
+Virgil van Dijk (Liverpool): 2915
+Joško Gvardiol (Manchester City): 2808
+William Saliba (Arsenal): 2657
+Bottom 3:
+Albert Grønbaek (Southampton): 38
+Odsonne Édouard (Crystal Palace): 45
+Ali Al Hamadi (Ipswich Town): 53
+
+Top 3 and Bottom 3 in Def Pen:
+Top 3:
+Mark Flekken (Brentford): 1261
+Bernd Leno (Fulham): 1046
+Emiliano Martínez (Aston Villa): 990
+Bottom 3:
+Solly March (Brighton): 0
+Emi Buendía (Aston Villa): 0
+Callum Wilson (Newcastle Utd): 1
+
+Top 3 and Bottom 3 in Def 3rd:
+Top 3:
+Mark Flekken (Brentford): 1569
+Jordan Pickford (Everton): 1401
+Bernd Leno (Fulham): 1296
+Bottom 3:
+Odsonne Édouard (Crystal Palace): 4
+Callum Wilson (Newcastle Utd): 5
+Solly March (Brighton): 5
+
+Top 3 and Bottom 3 in Mid 3rd:
+Top 3:
+Virgil van Dijk (Liverpool): 1624
+William Saliba (Arsenal): 1495
+Joško Gvardiol (Manchester City): 1412
+Bottom 3:
+Neto (Bournemouth): 0
+Danny Ward (Leicester City): 0
+Jason Steele (Brighton): 0
+
+Top 3 and Bottom 3 in Att 3rd:
+Top 3:
+Mohamed Salah (Liverpool): 967
+Bryan Mbeumo (Brentford): 851
+Bruno Fernandes (Manchester Utd): 848
+Bottom 3:
+Aaron Ramsdale (Southampton): 0
+Łukasz Fabiański (West Ham): 0
+Alex Palmer (Ipswich Town): 0
+
+Top 3 and Bottom 3 in Att Pen:
+Top 3:
+Mohamed Salah (Liverpool): 310
+Antoine Semenyo (Bournemouth): 174
+Erling Haaland (Manchester City): 170
+Bottom 3:
+Aaron Ramsdale (Southampton): 0
+Łukasz Fabiański (West Ham): 0
+Robin Olsen (Aston Villa): 0
+
+Top 3 and Bottom 3 in Att_y:
+Top 3:
+Mohammed Kudus (West Ham): 177
+Jeremy Doku (Manchester City): 175
+Morgan Rogers (Aston Villa): 145
+Bottom 3:
+Aaron Ramsdale (Southampton): 0
+Victor Lindelöf (Manchester Utd): 0
+Robert Sánchez (Chelsea): 0
+
+Top 3 and Bottom 3 in Carries:
+Top 3:
+Joško Gvardiol (Manchester City): 1826
+William Saliba (Arsenal): 1640
+Virgil van Dijk (Liverpool): 1640
+Bottom 3:
+Harry Toffolo (Nott'ham Forest): 17
+Albert Grønbaek (Southampton): 18
+Odsonne Édouard (Crystal Palace): 23
+
+Top 3 and Bottom 3 in PrgDist:
+Top 3:
+Jan Paul van Hecke (Brighton): 6643
+Joško Gvardiol (Manchester City): 5505
+Rúben Dias (Manchester City): 5097
+Bottom 3:
+Albert Grønbaek (Southampton): 15
+Harry Toffolo (Nott'ham Forest): 23
+Massimo Luongo (Ipswich Town): 25
+
+Top 3 and Bottom 3 in PrgC_y:
+Top 3:
+Jeremy Doku (Manchester City): 176
+Mohamed Salah (Liverpool): 138
+Kaoru Mitoma (Brighton): 136
+Bottom 3:
+Aaron Ramsdale (Southampton): 0
+Alex McCarthy (Southampton): 0
+Alex Palmer (Ipswich Town): 0
+
+Top 3 and Bottom 3 in 1/3_y:
+Top 3:
+Alex Iwobi (Fulham): 94
+Joško Gvardiol (Manchester City): 91
+Jeremy Doku (Manchester City): 83
+Bottom 3:
+Aaron Ramsdale (Southampton): 0
+Łukasz Fabiański (West Ham): 0
+Victor Lindelöf (Manchester Utd): 0
+
+Top 3 and Bottom 3 in CPA:
+Top 3:
+Mohamed Salah (Liverpool): 110
+Jeremy Doku (Manchester City): 80
+Noni Madueke (Chelsea): 75
+Bottom 3:
+Aaron Ramsdale (Southampton): 0
+Łukasz Fabiański (West Ham): 0
+Aaron Cresswell (West Ham): 0
+
+Top 3 and Bottom 3 in Mis:
+Top 3:
+Mohamed Salah (Liverpool): 102
+Morgan Rogers (Aston Villa): 102
+Liam Delap (Ipswich Town): 92
+Bottom 3:
+Łukasz Fabiański (West Ham): 0
+Alex McCarthy (Southampton): 0
+Billy Gilmour (Brighton): 0
+
+Top 3 and Bottom 3 in Dis:
+Top 3:
+Mohammed Kudus (West Ham): 84
+Dejan Kulusevski (Tottenham): 72
+Bruno Guimarães (Newcastle Utd): 72
+Bottom 3:
+Aaron Ramsdale (Southampton): 0
+Aaron Cresswell (West Ham): 0
+Łukasz Fabiański (West Ham): 0
+
+Top 3 and Bottom 3 in Rec:
+Top 3:
+Joško Gvardiol (Manchester City): 2062
+William Saliba (Arsenal): 2011
+Virgil van Dijk (Liverpool): 1996
+Bottom 3:
+Albert Grønbaek (Southampton): 21
+Odsonne Édouard (Crystal Palace): 26
+Neto (Bournemouth): 28
+
+Top 3 and Bottom 3 in PrgR_y:
+Top 3:
+Mohamed Salah (Liverpool): 407
+Bryan Mbeumo (Brentford): 300
+Kaoru Mitoma (Brighton): 274
+Bottom 3:
+Aaron Ramsdale (Southampton): 0
+Łukasz Fabiański (West Ham): 0
+Yerson Mosquera (Wolves): 0
+
+Top 3 and Bottom 3 in Fls:
+Top 3:
+Antoine Semenyo (Bournemouth): 64
+João Gomes (Wolves): 64
+Liam Delap (Ipswich Town): 64
+Bottom 3:
+Albert Grønbaek (Southampton): 0
+Alex McCarthy (Southampton): 0
+Alisson (Liverpool): 0
+
+Top 3 and Bottom 3 in Fld:
+Top 3:
+Bruno Guimarães (Newcastle Utd): 98
+Matheus Cunha (Wolves): 63
+John McGinn (Aston Villa): 63
+Bottom 3:
+Ben Mee (Brentford): 0
+Ben Godfrey (Ipswich Town): 0
+Odsonne Édouard (Crystal Palace): 0
+
+Top 3 and Bottom 3 in Off:
+Top 3:
+Dominic Calvert-Lewin (Everton): 27
+Chris Wood (Nott'ham Forest): 24
+Jamie Vardy (Leicester City): 23
+Bottom 3:
+Youri Tielemans (Aston Villa): 0
+Antony (Manchester Utd): 0
+Andy Irving (West Ham): 0
+
+Top 3 and Bottom 3 in Crs:
+Top 3:
+Pedro Porro (Tottenham): 191
+Bryan Mbeumo (Brentford): 171
+Bruno Fernandes (Manchester Utd): 164
+Bottom 3:
+Aaron Ramsdale (Southampton): 0
+Łukasz Fabiański (West Ham): 0
+Woyo Coulibaly (Leicester City): 0
+
+Top 3 and Bottom 3 in Recov:
+Top 3:
+Moisés Caicedo (Chelsea): 192
+Bruno Fernandes (Manchester Utd): 187
+Ryan Christie (Bournemouth): 182
+Bottom 3:
+Fraser Forster (Tottenham): 1
+Danny Ward (Leicester City): 1
+Hákon Rafn Valdimarsson (Brentford): 1
+
+Top 3 and Bottom 3 in Won:
+Top 3:
+Dan Burn (Newcastle Utd): 122
+Virgil van Dijk (Liverpool): 109
+Nathan Collins (Brentford): 103
+Bottom 3:
+Antony (Manchester Utd): 0
+Tyrell Malacia (Manchester Utd): 0
+Andrés García (Aston Villa): 0
+
+Top 3 and Bottom 3 in Lost_y:
+Top 3:
+Chris Wood (Nott'ham Forest): 117
+Jean-Philippe Mateta (Crystal Palace): 95
+Jørgen Strand Larsen (Wolves): 94
+Bottom 3:
+Aaron Ramsdale (Southampton): 0
+Neto (Bournemouth): 0
+Alex Palmer (Ipswich Town): 0
+
